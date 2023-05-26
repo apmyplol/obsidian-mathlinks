@@ -9,4 +9,11 @@ The links function the same way as obsidian links, i.e. they show a popup when h
 
 ![](Images/Screenshot_1.png)
 
-![](https://github.com/apmyplol/obsidian-mathlinks/assets/29597331/937e6c61-323b-4305-8db2-2f1c8c486247)
+The code to this block is the following:
+```
+[!abstract]+ chinesischer Restsatz
+> Sei $A$ ein [[Ring]] und seien $a_1, ..., a_n$ [[Ideal|Ideale]] in $A$. Definiere
+> $$ \phi : \begin{cases} A & \rightarrow \prod_{i=1}^n  \href{Faktorgruppe}{A/_{a_i}} \\ x & \mapsto (x\href{Nebenklasse}{+} a_1, ..., x + a_n) \end{cases} $$
+> Dann ist $\phi$ ein [[Ringhomomorphismus|Ringhomo]] mit $\href{Kern}{\text{kern}(\phi)} = \cap_{i=1}^n a_i$.
+> $\phi$ ist genau dann surjektiv, wenn die $a_i$ paarweise [[Ideal_teilerfremd|teilerfremd]] sind.
+```
