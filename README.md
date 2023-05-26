@@ -8,3 +8,5 @@ The links function the same way as obsidian links, i.e. they show a popup when h
 # Screenshot
 
 ![](Images/Screenshot_1.png)
+
+![](https://github.com/apmyplol/obsidian-mathlinks/assets/29597331/937e6c61-323b-4305-8db2-2f1c8c486247)
