@@ -6,6 +6,6 @@ The usage is `\href{file}{math}` where `file` is the file to be referenced and `
 The links function the same way as obsidian links, i.e. they show a popup when hovered and are clickable.
 
 
-![[2023-05-26-16-34-17.png]]
+![[Images/Screenshot_1.png]]
 
 
